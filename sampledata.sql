@@ -1,0 +1,1 @@
+SELECT * FROM vandana_557.student_1;
